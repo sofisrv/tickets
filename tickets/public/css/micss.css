@@ -1,0 +1,97 @@
+body
+{
+	font-family: 'Barrio';
+	font-size:16px;
+	font-weight:290;
+	color: white;
+	line-heigth:30px;
+	text-align:center;
+	background-color:#222733;
+	
+}
+
+strong
+{
+	font-weight:500;
+}
+
+a,a:hover,a:focus
+{
+	text-decoration:none;
+}
+
+h1,h2
+{
+	margin-top:10px;
+	font-size:40px;
+	font-weight:100;
+	line-height:50px;
+}
+
+h3
+{
+	font-size:25px;
+	font-weight:300;
+}
+
+.micontenedor
+{
+	padding:100px 0 170 0;
+	
+}
+.micontenedor .midescripcion
+{
+	margin:20px 0 10px 0;
+}
+
+.micontenedor .midescripcion p
+{
+	opacity: .8;
+}
+
+.miformcont
+{
+	margin-top:35px;
+}
+
+.miform-top
+{
+	overflow:hidden;
+	padding:0 25px 15px 25px
+	background: rgba(0,0,0,0.35);
+	moz-border-radius:10px 10px 0 0;
+	webkit-border-radius:10px 10px 0 0;
+	border-radius:10px 10px 0 0;
+}
+
+.miform-top-izq
+{
+	float: left;
+	width: 70%;
+	padding-top:25px;
+	text-align:left;
+	
+}
+
+.miform-top-izq p
+{
+	opacity:0.3;
+	
+}
+
+.miform-top-der
+{
+	float: right;
+	width: 30%;
+	padding-top:25px;
+	text-align:right;
+	font-size:60;
+	opacity:0.3;
+}
+
+input[type=submit] 
+{
+	width: 50%;
+}
+
+
